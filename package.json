@@ -66,5 +66,8 @@
         "last 1 safari version"
       ]
     }
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
   }
 }
